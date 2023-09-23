@@ -1,0 +1,2 @@
+# Mojo
+Mojo practice repositroy
